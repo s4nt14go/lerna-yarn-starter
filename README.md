@@ -1,6 +1,6 @@
 # Serverless Lerna + Yarn Workspaces Monorepo Starter
 
-A Serverless monorepo starter that uses [Lerna](https://lerna.js.org) and [Yarn Workspaces](https://classic.yarnpkg.com/en/docs/workspaces/).
+A Serverless monorepo starter that uses [Lerna](https://lerna.js.org) and [Yarn Workspaces](https://classic.yarnpkg.com/en/docs/workspaces/). 
 
 - Designed to scale for larger projects
 - Maintains internal dependencies as packages
